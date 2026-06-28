@@ -1,0 +1,16 @@
+llm:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  temperature: 0.2
+
+memory:
+  vector_db: chroma
+
+research:
+  max_search_results: 10
+  max_iterations: 3
+
+output:
+  format: markdown
+
+  

@@ -1,0 +1,5 @@
+Quantum computing uses qubits instead of classical bits.
+
+Major companies working on quantum computing include IBM, Google, Microsoft, IonQ, and Rigetti.
+
+Quantum computers have the potential to solve specific classes of problems much faster than classical computers.

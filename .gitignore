@@ -1,0 +1,58 @@
+# Virtual Environment
+venv/
+venv312/
+.venv/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# ChromaDB
+chroma_db/
+chroma/
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary
+*.tmp
+*.bak
+
+# Outputs
+outputs/reports/*
+outputs/markdown/*
+outputs/json/*
+!outputs/reports/.gitkeep
+!outputs/markdown/.gitkeep
+!outputs/json/.gitkeep
